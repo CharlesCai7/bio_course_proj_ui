@@ -11,7 +11,7 @@ source Bioenv/bin/activate
 pip install -r requirements.txt
 ```
 
-# Run the script
+### Run the script
 ``` bash
 streamlit run ui_basic.py
 streamlit run ui_advanced.py
